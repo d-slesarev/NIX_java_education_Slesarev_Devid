@@ -5,5 +5,9 @@ public class Test {
         System.out.println("Java education");
         //new string
 
+
+
+        System.out.println("DICT");
+
     }
 }
